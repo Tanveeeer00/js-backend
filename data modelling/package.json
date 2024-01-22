@@ -1,0 +1,17 @@
+{
+  "name": "data-modelling",
+  "version": "1.0.0",
+  "description": "A data modelling in mongoose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Tanveer",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.1.0"
+  }
+}

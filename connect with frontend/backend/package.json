@@ -1,0 +1,19 @@
+{
+  "name": "connect-backend",
+  "version": "1.0.0",
+  "description": "Connecting backend with frontend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "Tanveer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

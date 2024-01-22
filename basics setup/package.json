@@ -1,0 +1,19 @@
+{
+  "name": "basic-setup",
+  "version": "1.0.0",
+  "description": "a basic setup for backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "luix"
+  ],
+  "author": "Tanveer",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
